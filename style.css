@@ -1,0 +1,28 @@
+.h1 {
+  color: green;
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+}
+
+.p1 {
+  text-align: center;
+}
+
+.age {
+  background-color: skyblue;
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.button {
+  background-color: silver;
+  color: gold;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
